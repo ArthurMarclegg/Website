@@ -1,0 +1,33 @@
+[
+    {
+        "id": "NightInForest",
+        "title": "That Night Out In the Forest",
+        "firstSentence": "A figure belongs to that of a young adult male limped through the forest. The figure appeared average in every aspect; someone you would not be aware of in any crowd. The only trait of him was his bright orange full-body outfit",
+        "tags": [
+            "scenery",
+            "supernatural",
+            "chase"
+        ]
+    }, 
+    {
+        "id": "LastRide",
+        "title": "Last Ride",
+        "firstSentence": "'Pff…' A puff of smoke exited a young male’s mouth, rising and dissipated into the air. The male was in his late teen, wearing a black baseball cap, a police body armour over a white round collar t-shirt",
+        "tags": [
+            "apocolypse",
+            "scenery",
+            "hallucination"
+        ]
+    },
+    {
+        "id": "ThesisConsequence",
+        "title": "Thesis and the Consequences",
+        "firstSentence": "It’s all over. I thought as I turned over to the final page of a pile of hand-written papers. Though I have considered the possibility, I have not anticipated the emptiness as this product of labour materializes. Or rather", 
+        "tags": [
+            "science",
+            "simulation",
+            "creator",
+            "meaning"
+        ]
+    }
+]
